@@ -1,0 +1,1 @@
+## Hi there, we are the West Career and Technical Academy Audio Visual Club, and we are making school events sound better, one sound check at a time. This GitHub organization is for us to store projects and mainly for our website. You can find our social media links for more information on our club.
